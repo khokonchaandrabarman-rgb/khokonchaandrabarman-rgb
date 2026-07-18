@@ -1,16 +1,127 @@
-## Hi there 👋
+<html>
+  <head>
+    
+   
+    
+    <style>
+    body{
+      background-color: #BC57B6B0;
+    }
+     #ai{
+       
+       border-radius: 30px;
+       padding:10px;
+       height=10px;
+       width=90px;
+       margin:4px;
+       background-color:#9AB7C38A;
+       text-align: center;
+      }
+      h4{
+       border-radius: 8px;
+       padding:10px;
+       background-color:#AFEDF1;
+       height=100px;
+       width=90px;
+       margin:6px;
+      }
+      h5{
+       border-radius: 8px;
+       padding:10px;
+       background-color:#AFEDF1;
+       text-align:center ;
+       width=90px;
+       margin:6px;
+       color:#207C9C;
+      
+      }
+     
+      #a{
+       border-radius: 8px;
+       padding:10px;
+       background-color:#AFEDF1;
+       text-align:left ;
+       width=90px;
+       margin:6px;
+       color:#207C9C;
+      
+        
+      }
+      #op{
+        font-size:30px;
+        color:#7000FFFC;
 
-<!--
-**khokonchaandrabarman-rgb/khokonchaandrabarman-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      }
+      #d{
+       border-radius: 8px;
+       padding:10px;
+       background-color:#AFEDF1;
+       text-align:center ;
+       width=90px;
+       margin:6px;
+       color:#FF0000;
+      
+      }
+      img{
+        height:100px;
+        text-align:left ;
+        border-radius: 80px;
+        
+      }
+      #ii{
+        font-size:30px;
+        color:#F0DC00FC;
+      }
+      #t{
+       border-radius: 8px;
+       padding:10px;
+       background-color:#AFEDF1;
+       text-align:center ;
+       
+       width=90px;
+       margin:6px;
+       color:#207C9C;
+      }
+      #x{
+       border-radius: 8px;
+       padding:10px;
+       background-color:#AFEDF1;
+       text-align:center ;
+       width=90px;
+       margin:6px;
+       color:#FF0000;
+      
+      }
+      #n{
+        color:#FF0606;
+      }
+      #l{
+       border-radius: 10px;
+       padding:50px;
+       background-color:#BC57B6B0;
+       text-align:center ;
+       width=90px;
+       margin:6px;
+       
+      
+      }
 
-Here are some ideas to get you started:
+      
+    </style>
+  </head>
+  <body>
+    <h4><p id="ai"><b><span id="ff"><img src="/opensource.png"/></span><span style="font-size:16px">Welcome To My Githup</span></b></p></h4>
+    
+    <h5>Hi, I'm Khokon Chandra, a self-taught programmer driven by personal projects. My main focus is on AI development and leveraging it to solve complex problems. Furthermore, I am actively researching ways to make AI models more accessible, efficient, and low-cost.</p> <b style ="color :red;" >———————————————————————————</b> </h5>
+    <p id="a", style ="color:blue"><b>Skill →</p></b></p>
+    <p id="t"><b id="op">|</b>Python <b id="ii">|</b>Html<b style ="font-size:30px;color:red">|</b>Css <b style ="font-size:30px;color:grren">|</b></p>
+    <p id ="x"> ———————————————————————— </p>
+    
+    
+   <p id="l"> <img src="/IMG_20260718_025732.jpg"/> <img src="/Screenshot_20260718_030039.jpg"/></p>
+       
+    
+  </body>
+</html>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
